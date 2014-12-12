@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ani",
+				"anim_plan1"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"br",
+				"br	Tag"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11052,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/boxlayout.js",
+			"settings":
+			{
+				"buffer_size": 4075,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/component.css",
+			"settings":
+			{
+				"buffer_size": 9024,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"tid",
+				"TidyHTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/laurent/Documents/DEV/www/examples/fullscreen_layout_transitions_files/component.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/index.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/css/main.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sandbox/index.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sandbox/css/main.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sandbox/css/solutions.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sandbox/js/home.js",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/paul/index2.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/hobbies/index.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/paul/js/bootstrap.js",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/css/solutions.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/js/home.js",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sites/css/styles.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/robots.txt",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/humans.txt",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/sitemap.xml",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/urllist.txt",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/index.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/js/home.js",
+		"/Users/laurent/Documents/DEV/repo/PSR-Application/src/UNHCR/PSRBundle/Resources/views/Default/instructions.html.twig",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/404.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/css/styles.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/js/jquery.slimscroll.min.js",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/css/main.css",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/v3/sites/index.html",
+		"/Users/laurent/Documents/DEV/repo/pitoiset.net/htdocs/index.html",
+		"/Users/laurent/Documents/DEV/repo/pitoiset.net/htdocs/v3/index.html",
+		"/Users/laurent/Documents/DEV/www/www.pitoiset.net/htdocs/v3/index.html",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/sites/index.html",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/sites/js/home.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/css/solutions.css",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/css/styles.css",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/index.html",
+		"/Users/laurent/Desktop/Laurent/OWP-PSR.onepkg",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/js/home.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/index 2.html",
+		"/Users/laurent/Desktop/__MBP/sublime-jsdocs-master/README.md",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/index.html",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/js/home.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/js/jquery.tooltipster.js",
+		"/Users/laurent/Desktop/DEV/www/examples/ntent.html",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/css/main.css",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/css/mobile.css",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/js/home2.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/css/jquery.fullPage.css",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/js/animation.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/js/jquery.superscrollorama.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/js/jquery.js",
+		"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/css/jquery.slimscroll.min.js",
+		"/Users/laurent/Downloads/styles.css",
+		"/Users/laurent/Desktop/DEV/www/examples/_PERSO/pitoiset.net/index.html",
+		"/Users/laurent/Desktop/__MBP/ColorPicker-master/README.md",
+		"/Users/laurent/Desktop/__MBP/ADOBE.CREATIVE.SUITE.6.0.MASTER.COLLECTION.LS16.ESD.MACOSX-ISO/nfo.nfo",
+		"/Users/laurent/Desktop/__MBP/V.DJ.P.v7.0.4_DeGun-TPB/DeGun VirtualDJ Pro Fixed.nfo"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/js,/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/css",
+			"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3",
+			"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/css",
+			"/Users/laurent/Desktop/DEV/www/www.pitoiset.net/htdocs/v3/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1.jpg",
+			"Annual",
+			">\n",
+			"'>\n",
+			"\n		<!--  section 1 -->\n		<div id=\"one\" class=\"section\"  style=\"-webkit-background-size: cover; height: 325px; background: url(img/leoniebg2.jpg) 50% 50% / cover no-repeat rgb(204, 204, 204);\">\n			<div class=\"container row section-container\">\n				<div class=\"masthead container\">\n					<div class=\"container-inner\">\n						<div class=\"light-colors\">\n							j'aime beaucoup les playmobil et <br><br>j'aimerais <br><br>avoir un hotel pour eux\n						</div>\n					</div><!-- .container-inner -->\n				</div><!-- .masthead -->\n			</div>\n			<div class=\"down-one arrow-nav\">\n				<a href=\"#section2\" class=\"arrow-btn a-down\"><span class=\"ir\">Down</span></a>\n				<a href=\"#index\" class=\"arrow-btn a-top\"><span class=\"ir\">Top</span></a>\n			</div><!--.down-one-->\n		</div><!-- section one-->\n\n",
+			"container-inner",
+			"css",
+			"img/",
+			"') }}",
+			"{{ asset('Symfony/web/bundles/pitoiset/images/",
+			"icon",
+			"ntent",
+			"collect",
+			"ntent",
+			"slim",
+			"main",
+			"header-grp",
+			"masthead",
+			"container",
+			"section-grp",
+			"-->\n",
+			"map-location-marker",
+			"btn-sol",
+			"images/",
+			"header-grp",
+			"header-gr",
+			"map",
+			"href=\"#marketing\"",
+			"href=\"#mobile\"",
+			"mobile",
+			"video",
+			"href=\"#video\"",
+			"href=\"#search\"",
+			"href=\"#solutions\"",
+			"solutions",
+			"chat",
+			"three",
+			"ntent.com",
+			"three",
+			"container",
+			"masthead",
+			"search",
+			"one",
+			"search",
+			"http://www.ntent.com/wp-content/themes/ntent/images",
+			"(img/",
+			"images",
+			"section-dark",
+			"header-title",
+			"container",
+			"index_files",
+			"index",
+			"bradleyhaynes.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images/",
+			"",
+			"img/",
+			"href=\"#hp\"",
+			"href=\"#citibank\"",
+			"href=\"#convera\"",
+			"href=\"#unhcr\"",
+			"href=\"#homemap\"",
+			"img",
+			"(../img/",
+			"pitoiset.net"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 11052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5527,
+								5527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1070.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/boxlayout.js",
+					"settings":
+					{
+						"buffer_size": 4075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/component.css",
+					"settings":
+					{
+						"buffer_size": 9024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4904,
+								4906
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4190.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true
+}
