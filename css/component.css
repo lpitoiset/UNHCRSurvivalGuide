@@ -17,10 +17,12 @@ body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 	position: absolute;
     width: 100px;
     height: 50px;
-    top: 50%;
-    left: 50%;
-    margin-left: -50px; /* margin is -0.5 * dimension */
-    margin-top: -25px; 
+    /*top: 50%;*/
+    top: 10px;
+    /*left: 50%;*/
+    left: 10px;
+    margin-left: 0px; /* margin is -0.5 * dimension */
+    margin-top: 0px; 
 }
 .main-title::before {
 	content: "UNHCR Survival Guide";
@@ -45,6 +47,10 @@ body {
     background: #333;
     font-size: 0.9em;
     font-weight: 300;
+}
+
+.centered {
+	text-align: center;
 }
 
 .bl-main a {
