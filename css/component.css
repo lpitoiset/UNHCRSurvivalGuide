@@ -21,8 +21,8 @@ body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
     top: 10px;
     /*left: 50%;*/
     left: 10px;
-    margin-left: 0px; /* margin is -0.5 * dimension */
-    margin-top: 0px; 
+    margin-left: 2px; /* margin is -0.5 * dimension */
+    margin-top: 2px; 
 }
 .main-title::before {
 	content: "UNHCR Survival Guide";
