@@ -39,7 +39,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 11052,
+				"buffer_size": 12647,
 				"line_ending": "Unix"
 			}
 		},
@@ -55,7 +55,7 @@
 			"file": "css/component.css",
 			"settings":
 			{
-				"buffer_size": 9024,
+				"buffer_size": 9095,
 				"line_ending": "Unix"
 			}
 		}
@@ -199,6 +199,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"data-panel",
 			"1.jpg",
 			"Annual",
 			">\n",
@@ -288,15 +289,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 11052,
+						"buffer_size": 12647,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5527,
-								5527
+								0,
+								0
 							]
 						],
 						"settings":
@@ -305,7 +306,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1070.0,
+						"translation.y": 3356.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -342,15 +343,15 @@
 					"file": "css/component.css",
 					"settings":
 					{
-						"buffer_size": 9024,
+						"buffer_size": 9095,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4904,
-								4906
+								635,
+								635
 							]
 						],
 						"settings":
@@ -359,7 +360,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4190.0,
+						"translation.y": 78.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
